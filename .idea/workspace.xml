@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="357b2242-7104-4f19-ac96-05969521ccf3" name="Changes" comment="">
+    <list default="true" id="357b2242-7104-4f19-ac96-05969521ccf3" name="Changes" comment="Updated to split the menu and resources for easier viewing">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coffeemachine.py" beforeDir="false" afterPath="$PROJECT_DIR$/coffeemachine.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +20,9 @@
   "associatedIndex": 3
 }]]></component>
   <component name="ProjectId" id="2d47yhubXC8BhaU0vYuIxm24mgk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,6 +30,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.coffeemachine.executor": "Run",
+    "Python.data.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -49,6 +53,27 @@
       <option name="presentableId" value="Default" />
       <updated>1709255753774</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated to split the menu and resources for easier viewing">
+      <option name="closed" value="true" />
+      <created>1709257812032</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709257812032</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated to split the menu and resources for easier viewing">
+      <option name="closed" value="true" />
+      <created>1709257837620</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709257837620</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated to split the menu and resources for easier viewing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated to split the menu and resources for easier viewing" />
   </component>
 </project>
